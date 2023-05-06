@@ -1,4 +1,5 @@
-# jsfeth
+<h1 aling="center">JSfetch</h1>
+
 Fetch inspirado en Neofetch escrito en Javascript usando modulos de NodeJS
 
 Como usar:
@@ -12,7 +13,7 @@ git clone https://github.com/Lauta-dev/jsfeth.git
 gh repo clone Lauta-dev/jsfeth
 ```
 
-Instalar dependencias
+Instalar dependencias del projecto
 ```sh
 npm i
 ```
