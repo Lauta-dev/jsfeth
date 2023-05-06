@@ -1,4 +1,4 @@
-<h1 aling="center">JSfetch</h1>
+<h1 align="center">JSfetch</h1>
 
 Fetch inspirado en Neofetch escrito en Javascript usando modulos de NodeJS
 
